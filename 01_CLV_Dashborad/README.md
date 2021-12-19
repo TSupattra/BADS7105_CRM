@@ -7,6 +7,7 @@
 
 ### section 1 : Filter
    - Date 
+   
    - Customer lifesatge 
       - OA  Older Adults
       - OF  Older Families
@@ -14,6 +15,7 @@
       - PE  Pensioners
       - YA  Yaung Aduults
       - YF  Young Families
+      
     - Basket Dominant Mission
       - Fresh
       - Grocery
