@@ -30,3 +30,22 @@
 ### Top 10 most selling items
 
  ![product_rec_0](./product_rec_0.JPG)
+ 
+ we can generate frequent item sets that have a support of at least 60 % usinf apriori:
+ 
+    frequent_itemsets = apriori(hot_encoded_df, min_support=0.6, use_colnames=True)
+    
+ Generate the rules with their corresponding support, confidence and lift (build the rules) with association_rules  :
+ 
+    rules = association_rules(frequent_itemsets, metric="lift", min_threshold=1)
+    
+    
+  We can filter the dataframe using standard pandas code. In this case, look for a large lift (1) and high confidence (.8) :
+  
+    rules = rules[ (rules['lift'] >= 1) &
+       (rules['confidence'] >= 0.8)]
+  
+  
+    
+  
+ 
