@@ -125,4 +125,16 @@ time be member = 507.15 (ลำดับที่ 4)
 2.ทำ Up-selling เสนอขายสินค้าหรือบริการที่มีราคาสูงกว่าให้กับลูกค้าเพื่อเพิ่มยอดขาย
    
  
-## Segmentation 1. Return customer (Visit more than 1 times) 
+## Segmentation 2. One visit customer
+  use kmeans  , n_clusters = 4
+   
+   ![Customer_seg_4](./Customer_seg_4.JPG)
+   
+   ![Customer_seg_5](./Customer_seg_5.JPG)
+   
+   
+   ### Interpret results
+   
+   
+   
+   ### Plan for actions
