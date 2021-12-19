@@ -19,7 +19,7 @@
       - Grocery
       - Mixed
       - Non Food
-  filler Only section 3-7 
+  filler Only section 3-7 ,can filter to find what Time of some tpye of customer lifesatge or tpye of Basket Dominant Mission mixzimum visit to plan promotion.
   
   ### section 2 : Show information about Total Revenue Total Visit and Total Quality different between last month and current month 
   
