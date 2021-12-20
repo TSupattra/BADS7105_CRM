@@ -51,13 +51,27 @@
   
   ![product_rec_1](./product_rec_1.JPG)
   
+  ##### Item-sets
+  ![product_rec_5](./product_rec_5.JPG)
+
+  
+  
+  
   #### Product Recommendation for 3 items
   
   ![product_rec_2](./product_rec_2.JPG)
   
+  ##### Item-sets
+  ![product_rec_6](./product_rec_6.JPG)
+  
+ 
+  
   #### Product Recommendation for 4 items
   
   ![product_rec_3](./product_rec_3.JPG)
+  
+  ##### Item-sets
+  ![product_rec_7](./product_rec_7.JPG)
   
     
   
