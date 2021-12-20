@@ -44,7 +44,20 @@
   
     rules = rules[ (rules['lift'] >= 1) &
        (rules['confidence'] >= 0.8)]
+       
+  ### Interpret results
   
+  #### Product Recommendation for 2 items
+  
+  ![product_rec_1](./product_rec_1.JPG)
+  
+  #### Product Recommendation for 3 items
+  
+  ![product_rec_2](./product_rec_2.JPG)
+  
+  #### Product Recommendation for 4 items
+  
+  ![product_rec_3](./product_rec_3.JPG)
   
     
   
