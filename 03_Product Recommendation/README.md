@@ -1,8 +1,9 @@
-Data set : [Data set](./Prod_Rec.xlsx) 
+
 
 **Notebooks:** [Product recommendation](./Product_Recommendation.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TSupattra/BADS7105_CRM/blob/main/03_Product%20Recommendation/Product_Recommendation.ipynb)  
 
+Data set : [Data set](./Prod_Rec.xlsx) 
 ### product
  - โปรแกรมแท้                                
  - เครื่องซักผ้า                                                                
