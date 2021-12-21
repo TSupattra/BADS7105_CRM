@@ -1,4 +1,5 @@
-
+# Product recommendation
+[![](https://img.shields.io/badge/-Market--Basket-blue)](#)  [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 
 **Notebooks:** [Product recommendation](./Product_Recommendation.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TSupattra/BADS7105_CRM/blob/main/03_Product%20Recommendation/Product_Recommendation.ipynb)  
