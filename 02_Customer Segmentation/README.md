@@ -1,4 +1,5 @@
 # Customer Segmentation
+[![](https://img.shields.io/badge/-K--Means-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 
 **Notebooks:** [Customer Segmentation](./Customer_Segmentation_Group_3.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TSupattra/BADS7105_CRM/blob/main/02_Customer%20Segmentation/Customer_Segmentation_Group_3.ipynb)  
