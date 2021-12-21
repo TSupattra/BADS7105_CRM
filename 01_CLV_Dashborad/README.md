@@ -1,5 +1,6 @@
 
 # CLV Dashborad
+[![](https://img.shields.io/badge/-Dashboard-blue)](#) [![](https://img.shields.io/badge/-Power--BI-blue)](#) 
 ## Data set : Supermarket sales in Apr 2006 - Jul 2008
 
 ## Main Dashboard
