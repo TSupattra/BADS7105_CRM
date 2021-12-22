@@ -52,7 +52,17 @@ Use SMOTE in Train data of RFM and CLV
 
 **XGBoost model**
 
+XGBoost hyperparameter search using scikit-learn RandomizedSearchCV
+
+![CampaignRM_05](./CampaignRM_05.JPG) 
+
 ![XGBClassifier_SMOTE_RFM](./XGBClassifier_SMOTE_RFM.png) ![XGBClassifier_SMOTE_CLV](./XGBClassifier_SMOTE_CLV.png)
+
+
+
+## Conclusion
+
+AUC of XGXGBClassifier model SMOTE is higher than Logistic regression model with SMOTE 
 
 
 
