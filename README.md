@@ -14,7 +14,7 @@ Homework 3 : [03_Product Recommendation](./03_Product%20Recommendation)
 
 Homework 4 : [04_Campaign Response Model](./04_Campaign%20Response%20Model) 
 
-[![](https://img.shields.io/badge/-Python-blue)](#)
+[![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-XGBoot-blue)](#) [![](https://img.shields.io/badge/-SMOTE-blue)](#) [![](https://img.shields.io/badge/-RandomizedSearchCV-blue)](#)
 
 Homework 5 : [05_AB Testing](./05_AB%20Testing) 
 
