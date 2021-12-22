@@ -1,4 +1,5 @@
 # Campaign Response Model
+[![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-XGBoot-blue)](#) [![](https://img.shields.io/badge/-SMOTE-blue)](#) [![](https://img.shields.io/badge/-RandomizedSearchCV-blue)](#)
 
 **Notebooks:** [Campaign_Response_Model](./Campaign_Response_Model.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TSupattra/BADS7105_CRM/blob/main/04_Campaign%20Response%20Model/Campaign_Response_Model.ipynb)  
