@@ -11,3 +11,51 @@ Use data set 3 years back
 
 ![CampaignRM_01](./CampaignRM_01.JPG)
 
+
+## Data Preparation
+
+**RFM model**
+
+![CampaignRM_02](./CampaignRM_02.JPG)
+
+- R (Recency) คือ ระยะเวลาที่ลูกค้ามาใช้บริการครั้งสุดท้าย ล่าสุดเมื่อไหร่
+- F (Frequency) คือ ความถี่ที่ลูกค้ามาใช้บริการ
+- M (Monetary) คือ จำนวนเงินทั้งหมดที่ลูกค้าใช้จ่าย
+
+
+**Customer Lifetime Value (CLV) Model**
+
+![CampaignRM_03](./CampaignRM_03.JPG)
+
+
+**Fixing imbalanced with SMOTE**
+Problem imbalanced data
+
+![CampaignRM_04](./CampaignRM_04.JPG)
+
+Use SMOTE in Train data of RFM and CLV
+
+    sm = SMOTE(random_state=0)
+
+    sm.fit(X_train_rfm, y_train_rfm)
+    X_SMOTE_rfm, y_SMOTE_rfm = sm.fit_resample(X_train_rfm, y_train_rfm)
+
+    sm.fit(X_train_clv, y_train_clv)
+    X_SMOTE_clv, y_SMOTE_clv = sm.fit_resample(X_train_clv, y_train_clv)
+
+
+## Result
+**Logistic regression**
+
+![logistic_regression_model_SMOTE_RFM](./logistic_regression_model_SMOTE_RFM.png) ![logistic_regression_model_SMOTE_CLV](./logistic_regression_model_SMOTE_CLV.png)
+
+
+**XGBoost model**
+
+![XGBClassifier_SMOTE_RFM](./XGBClassifier_SMOTE_RFM.png) ![XGBClassifier_SMOTE_CLV](./XGBClassifier_SMOTE_CLV.png)
+
+
+
+
+
+
