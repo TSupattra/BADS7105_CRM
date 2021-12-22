@@ -17,4 +17,4 @@ Homework 7 : [07_Voice of Customer](./07_Voice%20of%20Customer)
 Homework 8 : [08_Design Thinking](./08_Design%20Thinking) 
 
 
-- [x] [Homework 01 - Analysis of Customer Behaviors](./Homework%2001%20-%20Analysis%20of%20customer%20behaviors)  
+
