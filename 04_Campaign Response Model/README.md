@@ -62,7 +62,7 @@ XGBoost hyperparameter search using scikit-learn RandomizedSearchCV
 
 ## Conclusion
 
-AUC of XGXGBClassifier model SMOTE is higher than Logistic regression model with SMOTE 
+AUC of XGXGBClassifier model with SMOTE is higher than Logistic regression model with SMOTE so   XGXGBClassifier model with SMOTE, the better the model is at distinguishing between patients with the Response and no Response.
 
 
 
