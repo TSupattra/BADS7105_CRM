@@ -15,9 +15,10 @@
 ![DesignThinking_page0004](./DesignThinking_page0004.jpg)
 
 **PROTOTYPE**
-![DesignThinking_page0004](./DesignThinking_page0004.jpg)
+
 ![DesignThinking_page0005](./DesignThinking_page0005.jpg)
+![DesignThinking_pag0006](./DesignThinking_pag0006.jpg)
 
 
 **TEST**
-![DesignThinking_pag0006](./DesignThinking_pag0006.jpg)
+![DesignThinking_page0007](./DesignThinking_page0007.jpg)
